@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Swufe</string>
+    <string name="app_title">Student Center</string>
+    <string name="app_wel">Welcome to SWUFE</string>
+    <string name="app_about">About</string>
+    <string name="app_con">Contact</string>
+    <string name="app_link">Link</string>
+</resources>
